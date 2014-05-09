@@ -1,6 +1,6 @@
 # Crisp Wordpress Theme
 
-A minimalist, responsive, and open-source theme for [Wordpress](http://wordpress.org) by [matheus Baumgart](http://matheusbaumgart.com). You can [view it live here](http://matheusbaumgart.com).
+A minimalist, responsive, and open-source theme for [Wordpress](http://wordpress.org) by [Matheus Baumgart](http://matheusbaumgart.com). You can [view it live here](http://matheusbaumgart.com).
 
 ![Index](https://raw.githubusercontent.com/matheusbaumgart/crisp-wordpress-theme/master/screenshot.png)   
 
