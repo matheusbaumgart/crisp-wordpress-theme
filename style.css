@@ -919,6 +919,10 @@ input#submit {
 	list-style: inherit;
 }
 
+.rrssb-buttons a{
+	font-family: "Open Sans",sans-serif;
+}
+
 @media screen and (min-width: 1281px){
 	html body{
 	font-size:2em;

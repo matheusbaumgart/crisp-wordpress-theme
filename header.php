@@ -44,6 +44,7 @@
 		</div>
 
 		<div id="social">
+		<!-- ******* Change here your social links ******** -->
 			<a href="http://linkedin.com/in/matheusbaumgart" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
 			<a href="http://instagram.com/matheusbaumgart" target="_blank"><i class="fa fa-instagram fa-2x"></i></a>
 			<a href="http://github.com/matheusbaumgart" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>
