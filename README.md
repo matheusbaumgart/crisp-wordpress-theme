@@ -42,7 +42,7 @@ This theme has been updated for Wordpress 3.9.1 and is compatible with all moder
 
 ### Credits
 
-Thanks to [Kathy Qian](http://kathyqian.com) for the inspiration with the Crisp Ghost theme. This theme is an adptation of [her theme](https://github.com/kathyqian/crisp-ghost-theme) to wordpress.
+Thanks to [Kathy Qian](http://kathyqian.com) for the inspiration with the Crisp Ghost theme. This theme is an wordpress adptation of [her theme](https://github.com/kathyqian/crisp-ghost-theme).
 
 Thanks to everybody that worked on [underscores (_s)](https://github.com/Automattic/_s) starter theme. You guys really saved me some time.
 
