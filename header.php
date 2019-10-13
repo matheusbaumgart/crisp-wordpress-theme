@@ -45,16 +45,16 @@
 
 		<div id="social">
 		<!-- ******* Change here your social links ******** -->
-			<a href="http://linkedin.com/in/matheusbaumgart" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
-			<a href="http://instagram.com/matheusbaumgart" target="_blank"><i class="fa fa-instagram fa-2x"></i></a>
-			<a href="http://github.com/matheusbaumgart" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>
-			<a href="mailto:hello@matheusbaumgart.com">
+			<a href="#" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+			<a href="#" target="_blank"><i class="fa fa-instagram fa-2x"></i></a>
+			<a href="#" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>
+			<a href="#">
 			<span class="fa-stack">
 			<i class="fa fa-square fa-stack-2x"></i>
 			<i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
 			</span>
 			</a>
-			<a href="http://matheusbaumgart.com/rss" target="_blank"><i class="fa fa-rss-square fa-2x"></i></a>
+			<a href="#" target="_blank"><i class="fa fa-rss-square fa-2x"></i></a>
 		</div>
 
 		<nav id="site-navigation" class="main-navigation" role="navigation">
